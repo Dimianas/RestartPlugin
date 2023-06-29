@@ -1,0 +1,12 @@
+Timezone: "America/New_York"
+RestartTimes:
+  - "16:50:00" # 23:50 on moscow time 
+# - "14:00:00" I can use more time
+
+# %timeword% is the minute/seconds/second string.
+# %time% is the number, ex: 15/10/5/2
+string: "&e[SERVER] Server restarting in %time% %timeword%"
+finalstring: "&e[SERVER] Server restarting..."
+minutestring: "minutes..."
+secondsstring: "seconds..."
+secondstring: "second..."

@@ -1,0 +1,7 @@
+name: RestartServer
+version: '${project.version}'
+main: ru.restartserver.RestartServer
+api-version: 1.16
+authors: [ Dimianas ]
+description: This plugin create for 2k2f.ru
+website: https://2k2f.site/
